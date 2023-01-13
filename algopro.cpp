@@ -2,8 +2,7 @@
 ALGORITHMS - 1 Project
 
 
-19MI10006  Amit kumar
-
+200308    DEEPAK KUMAR
 
 "Motivation : In the modern era of ""Digital India"" internet connectivity for fun and productivity has become a necessity. Particularly in Institutions ensuring wireless Internet access is now almost as important a feature of building facilities as the access to water and electricity. Typically, buildings are connected to the Internet using a fiber backbone. In order to provide wireless Internet access, wireless routers are placed around the building and connected using fiber cables to the
 backbone.
